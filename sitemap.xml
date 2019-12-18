@@ -35,7 +35,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/61/</loc>
+        <lastmod>2018-12-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/59/</loc>
+        <lastmod>2018-11-29</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/57/</loc>
+        <lastmod>2018-11-29</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/50/</loc>
+        <lastmod>2018-11-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/49/</loc>
+        <lastmod>2018-11-27</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/46/</loc>
+        <lastmod>2018-11-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/44/</loc>
+        <lastmod>2018-11-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/37/</loc>
         <lastmod>2018-11-26</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
