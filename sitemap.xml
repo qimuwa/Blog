@@ -6,6 +6,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
 
     <url>
+        <loc>/Blog-With-GitHub-Boilerplate/album/</loc>
+        <lastmod>2018-12-07</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>/Blog-With-GitHub-Boilerplate/about/</loc>
         <lastmod>2018-11-22</lastmod>
         <changefreq>always</changefreq>
@@ -16,6 +23,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/typography/</loc>
         <lastmod>2019-12-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/lost/</loc>
+        <lastmod>2019-08-10</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
