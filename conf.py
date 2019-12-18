@@ -14,25 +14,20 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "七木"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+site_build_date = "2018-11-22T12:50+08:00"
+author = "七木"
+email = "qimuwa@gmail.com"
+author_homepage = "https://www.imqimu.cn"
+description = "一切看似逝去的，都不曾离开。"
+key_words = ['Maverick', '七木', 'Galileo', 'blog', 'qimu', 'qimuwa', '七木哇']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "三無計劃",
+        "name": "七木 | Qimu",
         "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "brief": "七木的主页。"
     }
 ]
 nav = [
