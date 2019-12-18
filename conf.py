@@ -26,7 +26,7 @@ language = 'zh-CN'
 external_links = [
     {
         "name": "七木 | Qimu",
-        "url": "https://www.imalan.cn",
+        "url": "https://www.imqimu.cn",
         "brief": "七木的主页。"
     }
 ]
@@ -50,18 +50,13 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
-    {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/qimuwa",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/5625238857/",
         "icon": "gi gi-weibo"
     }
 ]
