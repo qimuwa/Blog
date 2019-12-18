@@ -23,6 +23,7 @@ author_homepage = "https://www.imqimu.cn"
 description = "一切看似逝去的，都不曾离开。"
 key_words = ['Maverick', '七木', 'Galileo', 'blog', 'qimu', 'qimuwa', '七木哇']
 language = 'zh-CN'
+background_img = '${static_prefix}bg_1.jpg'
 external_links = [
     {
         "name": "七木 | Qimu",
@@ -64,8 +65,21 @@ social_links = [
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+<meta name="google-site-verification" content="t3OmqFng0xM4Abot0kdoBNGlMXkfv6yMGMuO5O5sTuo" />
 '''
 
-footer_addon = ''
+footer_addon = r'''
+<a no-style href="http://www.miitbeian.gov.cn/" target="_blank">豫ICP备19037160号</a>
+'''
 
-body_addon = ''
+body_addon = r'''
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?94ff98c7fab8d01d1b60fdc532c6c464";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+'''
