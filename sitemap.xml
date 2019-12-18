@@ -35,7 +35,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/46/</loc>
+        <lastmod>2018-11-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/33/</loc>
+        <lastmod>2018-11-25</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/27/</loc>
+        <lastmod>2018-11-25</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/41/</loc>
+        <lastmod>2018-11-25</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/21/</loc>
+        <lastmod>2018-11-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/see-you-again/</loc>
         <lastmod>2018-11-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
