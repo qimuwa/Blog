@@ -75,6 +75,7 @@ head_addon = r'''
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="application-name" content="七木 | Qimu">
 <meta name="apple-mobile-web-app-title" content="七木 | Qimu">
+<link rel="shortcut icon" href="${static_prefix}favicon.ico">
 <meta name="google-site-verification" content="t3OmqFng0xM4Abot0kdoBNGlMXkfv6yMGMuO5O5sTuo" />
 '''
 
