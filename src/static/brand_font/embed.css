@@ -1,10 +1,10 @@
 @font-face {
     font-family: "myFont";
-	src: url("fzsxslkjt.eot");
-	src: url("fzsxslkjt.eot?#iefix") format("embedded-opentype"), 
-	url("fzsxslkjt.woff") format("woff"), 
-	url("fzsxslkjt.ttf") format("truetype"), 
-	url("fzsxslkjt.svg") format("svg");
-	font-style: normal;
-	font-weight: normal;
+    src: url("fzsxslkjt.eot");
+    src: url("fzsxslkjt.eot?#iefix") format("embedded-opentype"), 
+    url("fzsxslkjt.woff") format("woff"), 
+    url("fzsxslkjt.ttf") format("truetype"), 
+    url("fzsxslkjt.svg") format("svg");
+    font-style: normal;
+    font-weight: normal;
 }
