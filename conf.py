@@ -15,7 +15,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "七木"
-site_logo = "${static_prefix}cat.png"
+site_logo = "${static_prefix}miao.png"
 site_build_date = "2018-11-22T12:50+08:00"
 author = "七木's Blog"
 email = "qimuwa@gmail.com"
