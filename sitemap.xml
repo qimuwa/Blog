@@ -133,6 +133,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/145/</loc>
+        <lastmod>2018-12-24</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/144/</loc>
+        <lastmod>2018-12-23</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/143/</loc>
         <lastmod>2018-12-22</lastmod>
         <changefreq>always</changefreq>
@@ -154,6 +168,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/132/</loc>
+        <lastmod>2018-12-19</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/129/</loc>
         <lastmod>2018-12-18</lastmod>
         <changefreq>always</changefreq>
@@ -163,6 +184,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/127/</loc>
         <lastmod>2018-12-17</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/123/</loc>
+        <lastmod>2018-12-09</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
