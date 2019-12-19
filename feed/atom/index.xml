@@ -1,127 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/Blog-With-GitHub-Boilerplate/</id><title>七木</title><updated>2019-12-19T03:53:10.124917+08:06</updated><author><name>七木</name><email>qimuwa@gmail.com</email></author><link href="/Blog-With-GitHub-Boilerplate/" rel="alternate"/><generator uri="http://lkiesow.github.io/python-feedgen" version="0.8.0">python-feedgen</generator><logo>${static_prefix}logo.png</logo><subtitle>一切看似逝去的，都不曾离开。</subtitle><entry><id>/Blog-With-GitHub-Boilerplate/archives/207/</id><title>年终福利-腾讯视频</title><updated>2019-12-19T03:53:10.125236+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;不得不说这次寄来的年终福利是这两年最慢的一次，三月十号才拿到。
-这次寄来的福利有：&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;猪年公仔&lt;em&gt;1 
-腾讯视频年卡&lt;/em&gt;1&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/Blog-With-GitHub-Boilerplate/</id><title>七木</title><updated>2019-12-19T04:15:01.751952+08:06</updated><author><name>七木</name><email>qimuwa@gmail.com</email></author><link href="/Blog-With-GitHub-Boilerplate/" rel="alternate"/><generator uri="http://lkiesow.github.io/python-feedgen" version="0.8.0">python-feedgen</generator><logo>${static_prefix}logo.png</logo><subtitle>一切看似逝去的，都不曾离开。</subtitle><entry><id>/Blog-With-GitHub-Boilerplate/archives/351/</id><title>「狮子王 The Lion King」</title><updated>2019-12-19T04:15:01.752330+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;童话有两种，一种是给小孩看的，一种是给长大了的小孩看的。
+时隔二十余年，当《狮子王》推出真·毛茸茸版本的时候，当年的第一批观众，如今有的人已经是爷爷奶奶了……
+当动画片变成了有血有肉的故事，童话的残酷感会加倍真实，而所谓的天真会显得幼稚而愚蠢。
+只是因为，我们自己不再天真了。
+!!!&lt;/p&gt;
+&lt;p&gt;&lt;div class="douban-single" data-type="movie" data-id="26884354" data-rating="8.5"&gt;&lt;/div&gt;
+!!!&lt;/p&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/351/" rel="alternate"/><published>2019-07-25T10:38:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/422/</id><title>「使徒行者2：谍影行动」</title><updated>2019-12-19T04:15:01.752266+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;全程无亮点，缺乏创新，无力吐槽，看过最烂的一部港剧警匪片&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;孤独的人 在回忆里入座
+沿途漂泊 像故事的段落&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;别看了没有了，只有这两个，年卡不值钱，也就猪年公仔值钱一点。&lt;/p&gt;
-&lt;blockquote&gt;&lt;h1&gt;感谢鹅厂寄来的年终福利&lt;/h1&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;晒图：&lt;/p&gt;
-&lt;div class="photos"&gt;
-&lt;figure class="pswp-item" style="flex: 75.01291989664082" data-width="2903" data-height="1935"&gt;&lt;img src="https://qimu-1251828023.cos.ap-guangzhou.myqcloud.com/2019/03/12/1552406252.jpg" alt="" /&gt;&lt;/figure&gt;
-&lt;figure class="pswp-item" style="flex: 75.01291989664082" data-width="2903" data-height="1935"&gt;&lt;img src="https://qimu-1251828023.cos.ap-guangzhou.myqcloud.com/2019/03/12/1552406333.jpg" alt="" /&gt;&lt;/figure&gt;
-&lt;figure class="pswp-item" style="flex: 75.01291989664082" data-width="2903" data-height="1935"&gt;&lt;img src="https://qimu-1251828023.cos.ap-guangzhou.myqcloud.com/2019/03/12/1552406394.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;h1&gt;再次感谢&lt;/h1&gt;
-&lt;/blockquote&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/207/" rel="alternate"/><published>2019-03-12T23:56:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/266/</id><title>CentOS搭建Socks5代理服务器</title><updated>2019-12-19T03:53:10.125214+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;h2&gt;环境：&lt;/h2&gt;
-&lt;h3&gt;阿里云 1H 1G&lt;/h3&gt;
-&lt;h3&gt;服务器操作系统：CentOS 7.3&lt;/h3&gt;
-&lt;h2&gt;安装ss5&lt;/h2&gt;
-&lt;p&gt;登陆到你的服务器&lt;/p&gt;
-&lt;h3&gt;安装ss5依赖包&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;yum install gcc openldap-devel pam-devel openssl-devel
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;安装ss5&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;wget http://jaist.dl.sourceforge.net/project/ss5/ss5/3.8.9-8/ss5-3.8.9-8.tar.gz
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;解压压缩包&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;tar -vzx -f ss5-3.8.9-8.tar.gz
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;进入解压目录&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;cd ss5-3.8.9/
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;运行’./configure’&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;./configure
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;编译ss5&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;make
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;安装编译的程序&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;make install
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;修改权限&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;chmod +x /etc/init.d/ss5
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;启动ss5&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;service ss5 start
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;设置监听端口&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;vi /etc/sysconfig/ss5  
-# Add startup option here  
-SS5_OPTS=" -u root -b 0.0.0.0:6666"
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;修改ss5的配置文件&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;vi /etc/opt/ss5/ss5.conf    
-删除auth,permit这两行的注释  
-auth 0.0.0.0/0 - -  
-permit - 0.0.0.0/0 - 0.0.0.0/0 - - - - -
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;重启ss5&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;service ss5 restart
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;结束&lt;/h2&gt;
-&lt;p&gt;接下来用软件测试一下
-&lt;figure class="pswp-item" style="flex: 84.7457627118644" data-width="1200" data-height="708"&gt;&lt;img src="https://qimu-1251828023.cos.ap-guangzhou.myqcloud.com/2019/03/20/1553061331.jpg" alt="" /&gt;&lt;/figure&gt;
-看起来速度还是不错的&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/266/" rel="alternate"/><published>2019-03-20T10:15:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/288/</id><title>博客迁移至阿里云</title><updated>2019-12-19T03:53:10.125191+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;本次迁移大概历时四个小时（期间还有别的事耽搁了一会，实际上不到四个小时。
-从网站、数据库备份，上传到新的服务器（阿里的轻量级，Centos7.3+BT控制面板
-迁移过程中也遇到了一个问题，还是关于数据库的
-本是重新安装&lt;a href="http://typecho.org"&gt;Typecho&lt;/a&gt;，结果出现数据库连接问题，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;figure class="pswp-item" style="flex: 180.92948717948718" data-width="1129" data-height="312"&gt;&lt;img src="https://qimu-1251828023.cos.ap-guangzhou.myqcloud.com/2019/04/24/1556083576.png" alt="" /&gt;&lt;/figure&gt;
-出现问题后，找到从虚拟主机备份下来的文件，直接打包上传到服务器，在导入数据库，又出现这个问题
-&lt;figure class="pswp-item" style="flex: 144.02985074626866" data-width="386" data-height="134"&gt;&lt;img src="https://qimu-1251828023.cos.ap-guangzhou.myqcloud.com/2019/04/24/1556083679.png" alt="" /&gt;&lt;/figure&gt;
-在某灌水群&lt;a href="https://jq.qq.com/?_wv=1027&amp;amp;k=5vezunv"&gt;777536599&lt;/a&gt;中一位大佬指出config.inc.php文件是否有问题就像这样
-&lt;figure class="pswp-item" style="flex: 79.63709677419355" data-width="395" data-height="248"&gt;&lt;img src="https://qimu-1251828023.cos.ap-guangzhou.myqcloud.com/2019/04/24/1556083811.png" alt="" /&gt;&lt;/figure&gt;
-从虚拟主机备份过来的config.inc.php文件和之前的不太一样，前者是Pdo_Mysql，后者是Mysql，如下图：
-&lt;figure class="pswp-item" style="flex: 246.02272727272728" data-width="433" data-height="88"&gt;&lt;img src="https://qimu-1251828023.cos.ap-guangzhou.myqcloud.com/2019/04/24/1556083936.png" alt="" /&gt;&lt;/figure&gt;
-把虚拟主机备份的config.inc.php文件改成Pdo_Mysql，再刷新&lt;a href="http://blog.qimuwa.com"&gt;blog.qimuwa.com&lt;/a&gt;卧槽，牛逼，解决了，而且什么文件都在 :@(赞一个) 
-这次迁移长知识了，不过我觉得&lt;a href="http://typecho.org"&gt;Typecho&lt;/a&gt;也有问题的吧。&lt;/p&gt;
-&lt;h2&gt;完结撒花&lt;/h2&gt;
-&lt;p&gt;这次才真正的做到所有文件都在自己的服务器
-博客的每一行代码，服务器上每一个文件都在自己的掌握之内。&lt;/p&gt;
-&lt;p&gt;最后来一个&lt;/p&gt;
-&lt;h1&gt;VOID牛逼 :@(献花)&lt;/h1&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/288/" rel="alternate"/><published>2019-04-24T10:07:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/343/</id><title>心之所向，就是对的方向</title><updated>2019-12-19T03:53:10.125168+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;光阴荏苒，弹指一挥间
-时光转瞬即逝，2019已经过去一半至多，而我却一事无成
-年前年后找工作的时间让我很迷茫，不知道自己能做什么，也不知道自己想做什么
-三月份从郑州回到家里，找了一份外贸的工作，其实我并不太喜欢这份工作
-跳槽这个想法已经早早的出现在我的脑海里，但是跳去哪里，跳去做什么，这又是一个问题
-所以从工作开始到现在，已经第四个月了
-也和同学们商量过一起创业的想法，总是想着再等等，等等就会好过的
-其实不然，就算创业失败，就算亏的裤衩都不剩，至少你大胆的去做了，努力过&lt;/p&gt;
-&lt;h4&gt;最近在知乎上看到了一个回答&lt;/h4&gt;
-&lt;blockquote&gt;&lt;p&gt;如果你有一份工作，请做好现在正在做的事儿，让工作填满你的脑海，去改进，去学习，去进步，记住一句话：主动做事和被动做事完全是两码事儿，永远用主动的态度和更多的工作时间去填补你本身的不足。记得毕业后常看书，能够帮助你训练技能的那种书，你就没空迷茫了。&lt;/p&gt;
-&lt;p&gt;如果你没有工作或者不喜欢现在的工作，可以辞职，找一份新的，往你想做的方向去发展，从最小的职位开始，普通人在成功前都是这么过来的。&lt;/p&gt;
-&lt;p&gt;如果你不知道自己想干什么，那你需要好好想想，面临选择的恐惧和纠结会撕裂你的，但是别怕，仔细想想什么对你是最重要的，实在想不懂的话，喝点儿酒，去外地散心，和朋友聊天，你就能更容易做出选择。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我觉得说的并没错，迷茫是对未来的不确定，对现在的生活感到失望，对做出的改变感到恐惧，很难克服这些人性的弱点(起码我是的)&lt;/p&gt;
-&lt;p&gt;你还年轻，想做什么就去做吧，不要怕失败，不要在十年后后悔今天没有努力就行。&lt;/p&gt;
-&lt;h2&gt;心之所向，就是对的方向&lt;/h2&gt;
-&lt;p&gt;&lt;figure class="pswp-item" style="flex: 79.7872340425532" data-width="750" data-height="470"&gt;&lt;img src="https://qimu-1251828023.cos.ap-guangzhou.myqcloud.com/2019/07/15/1563165156.jpg" alt="2019" /&gt;&lt;figcaption&gt;2019&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/343/" rel="alternate"/><published>2019-07-15T12:28:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/lost/</id><title>失去的终将逝去</title><updated>2019-12-19T03:53:10.125145+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;今天决定停止&lt;a href="https://www.imqimu.cn"&gt;imqimu.cn&lt;/a&gt;和&lt;a href="https://www.qimuwa.com"&gt;qimuwa.com&lt;/a&gt;下所有二级域名的更新和维护。&lt;/p&gt;
+&lt;p&gt;!!!&lt;/p&gt;
+&lt;p&gt;&lt;div class="douban-single" data-type="movie" data-id="30423193" data-rating="6"&gt;&lt;/div&gt;
+!!!&lt;/p&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/422/" rel="alternate"/><published>2019-08-08T08:17:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/lost/</id><title>失去的终将逝去</title><updated>2019-12-19T04:15:01.752241+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;今天决定停止&lt;a href="https://www.imqimu.cn"&gt;imqimu.cn&lt;/a&gt;和&lt;a href="https://www.qimuwa.com"&gt;qimuwa.com&lt;/a&gt;下所有二级域名的更新和维护。&lt;/p&gt;
 &lt;p&gt;至于什么时候重新开始，看心情吧，随心而欲。&lt;/p&gt;
 &lt;p&gt;从搭建到结束已经过去260天，我曾说道“&lt;a href="https://blog.imqimu.cn/about.html"&gt;希望这次将是我维护博客最长时间&lt;/a&gt;”，我做到了，这的确是我搭建博客次数中维护时间最长的一次，希望下一次会更久。&lt;/p&gt;
 &lt;p&gt;准备辞掉工作，去做自己喜欢的事，趁年轻，多看看，多去做。&lt;/p&gt;
@@ -130,14 +22,24 @@ permit - 0.0.0.0/0 - 0.0.0.0/0 - - - - -
 &lt;p&gt;人这种生物是一种很神奇的动物，既容易满足，却又什么都不知足。&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The end is the begin.&lt;/p&gt;
 &lt;/blockquote&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/lost/" rel="alternate"/><published>2019-08-10T10:38:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/to-google-cloud/</id><title>博客迁移至谷歌云</title><updated>2019-12-19T03:53:10.125122+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;阿里云服务器疑似被墙了，正好最近又白嫖了谷歌云一个服务器，今天决定把网站迁移到谷歌云上。&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/to-google-cloud/" rel="alternate"/><published>2019-10-04T23:36:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/AirPods-Pro/</id><title>AirPods Pro</title><updated>2019-12-19T03:53:10.125099+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;10月29日凌晨消息，苹果公司刚刚更新其官网，推出支持主动降噪功能的AirPods Pro无线耳机，这款传闻许久的产品终于到来。&lt;/p&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/lost/" rel="alternate"/><published>2019-08-10T10:38:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/to-google-cloud/</id><title>博客迁移至谷歌云</title><updated>2019-12-19T04:15:01.752210+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;阿里云服务器疑似被墙了，正好最近又白嫖了谷歌云一个服务器，今天决定把网站迁移到谷歌云上。&lt;/p&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/to-google-cloud/" rel="alternate"/><published>2019-10-04T23:36:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/Weathering-With-You/</id><title>「天気の子」</title><updated>2019-12-19T04:15:01.752185+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;新海诚的场景真的很好，尤其是一些远景和一些梦幻的场景，截下来就是一张电脑屏保。而本次电影名是《天气之子》，和天气贴合度就更紧密了。不得不说，新海诚真的非常适合画这些光影交错的场景。无论是 《言叶之庭》中的雨景，还是这部电影中的雨景、雪景和晴天，都刻画的相当仔细。每处雨滴溅起水花，每片缓缓落下的盛夏之雪，每束阳光穿过指缝洒下的光，天上连接彼岸的那一朵巨大的云，即使天晴也给人一种唯美的悲伤。&lt;/p&gt;
+&lt;p&gt;彩蛋！！《你的名字》男主・立花泷、女主・宫水三叶露脸了！！&lt;/p&gt;
+&lt;p&gt;天气男主・帆高和女主・阳菜去的最后一个晴女的打工是去立花家！！感觉立花长高了一点，还是穿着高中校服，看起来成熟许多。三叶是在帆高买戒指的店上班，头上还绑着那条红绳子。&lt;/p&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/Weathering-With-You/" rel="alternate"/><published>2019-11-02T23:38:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/AirPods-Pro/</id><title>AirPods Pro</title><updated>2019-12-19T04:15:01.752159+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;10月29日凌晨消息，苹果公司刚刚更新其官网，推出支持主动降噪功能的AirPods Pro无线耳机，这款传闻许久的产品终于到来。&lt;/p&gt;
 &lt;p&gt;AirPods Pro的外观是一次大改变，为了主动降噪功能，苹果终于采用了入耳式设计，并加大了耳机本体部分，这一切都是为AirPods服务。&lt;/p&gt;
 &lt;p&gt;在耳机芯片上，这款产品采用了苹果H1，也就是跟第二代AirPods一样，H1芯片有10个音频核心，具备极低的音频处理延迟，所以在实时降噪，还能保证音质。对比上代一代更加节能，当然也支持“嘿Siri”语音唤醒等功能。&lt;/p&gt;
 &lt;p&gt;注：
 请将手中的iOS设备升级到最新的iOS 13.2，不然AirPods Pro中的部分功能无法使用。&lt;/p&gt;
 &lt;p&gt;详见官网&lt;a href="https://www.apple.com.cn/cn/airpods-pro/"&gt;AirPods Pro&lt;/a&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/AirPods-Pro/" rel="alternate"/><published>2019-11-03T23:44:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/hackintosh/</id><title>RedmiBook 14 黑苹果</title><updated>2019-12-19T03:53:10.125073+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;Mac OS
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/AirPods-Pro/" rel="alternate"/><published>2019-11-03T23:44:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/Terminator-6/</id><title>「终结者：黑暗命运」</title><updated>2019-12-19T04:15:01.752134+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;《终结者》系列拍了35年，这次可能是真的要说再见了。&lt;/p&gt;
+&lt;p&gt;终结者T800老了，莎拉康纳老了，这次他们一起出现在荧幕上，给这个系列的粉丝带来一个体面的告别。&lt;/p&gt;
+&lt;p&gt;故事还是和之前套路基本一致，反派终结者穿越到现在追杀影响未来世界的重要人类首领（或者他的妈妈），正义一方派出改造过的终结者（这次是改造人）赶在反派之前来保护重要的人类。&lt;/p&gt;
+&lt;p&gt;反派终结者依然像厉鬼一样追着不放，依然一副永远打不死的彪悍模样，但是最终还是会被正义一方彻底摧毁。&lt;/p&gt;
+&lt;p&gt;不同的是，这次终结者T800说的是：“I won't be back“，结局也印证了这句话，这回他是真的牺牲了，不会再在片尾神奇地睁开红眼，不会再仿佛什么事都没有一般重新站起来。&lt;/p&gt;
+&lt;p&gt;这样一个无数科幻迷喜爱的电影系列终于落下了帷幕，好在这个终结篇虽然故事依然俗套，但过程足够精彩，感情足够动人，动作足够火爆，特效足够炫目，也算给它的影迷送出了一个足够真挚的离别礼物。&lt;/p&gt;
+&lt;p&gt;再见，永远的终结者T800！&lt;/p&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/Terminator-6/" rel="alternate"/><published>2019-11-04T23:59:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/hackintosh/</id><title>RedmiBook 14 黑苹果</title><updated>2019-12-19T04:15:01.752107+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;Mac OS
 折腾了一天的黑苹果，直到现在才进入系统，系统好装，驱动难装&lt;/p&gt;
 &lt;h2&gt;硬件详情：&lt;/h2&gt;
 &lt;table&gt;
@@ -182,14 +84,14 @@ permit - 0.0.0.0/0 - 0.0.0.0/0 - - - - -
 &lt;li&gt;触摸板无法使用&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://cdn.imqimu.cn/2019/11/27/1574857011.jpeg"&gt;Redmibook 14黑苹果&lt;/a&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/hackintosh/" rel="alternate"/><published>2019-11-27T00:01:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/fuck/</id><title>亲手删除博客数据</title><updated>2019-12-19T03:53:10.125044+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;手残误删了博客数据(目录+数据库)，重要的是都还没有开备份&lt;/p&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/hackintosh/" rel="alternate"/><published>2019-11-27T00:01:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/fuck/</id><title>亲手删除博客数据</title><updated>2019-12-19T04:15:01.752075+00:00</updated><author><name>七木</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;p&gt;手残误删了博客数据(目录+数据库)，重要的是都还没有开备份&lt;/p&gt;
 &lt;p&gt;于是机智的我在另一台服务器上找到三个月前的备份文件，下载，重新上传，一气呵成简直完美。&lt;/p&gt;
 &lt;p&gt;所以我的博客只有三个月之前的数据，帖子也没了，什么都没了。&lt;/p&gt;
 &lt;p&gt;害，备份保平安&lt;/p&gt;
 &lt;p&gt;感谢某灌水群群员订阅了我的博客，生成了HTML通过email发给我，并顺利恢复文章&lt;/p&gt;
 &lt;p&gt;原谅糖&lt;a href="https://luhe.xyz/"&gt;https://luhe.xyz/&lt;/a&gt;
 &lt;figure class="pswp-item" style="flex: 133.33333333333334" data-width="760" data-height="285"&gt;&lt;img src="https://cdn.imqimu.cn/2019/12/04/1575471991.png" alt="404" /&gt;&lt;figcaption&gt;404&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/fuck/" rel="alternate"/><published>2019-12-04T23:02:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/typography/</id><title>Hello World!</title><updated>2019-12-19T03:53:10.124989+00:00</updated><author><name>AlanDecode</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/fuck/" rel="alternate"/><published>2019-12-04T23:02:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/typography/</id><title>Hello World!</title><updated>2019-12-19T04:15:01.752019+00:00</updated><author><name>AlanDecode</name><email>qimuwa@gmail.com</email><uri>https://www.imqimu.cn</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;

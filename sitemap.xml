@@ -42,8 +42,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/Terminator-6/</loc>
+        <lastmod>2019-11-04</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/AirPods-Pro/</loc>
         <lastmod>2019-11-03</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/Weathering-With-You/</loc>
+        <lastmod>2019-11-02</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
@@ -63,8 +77,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/422/</loc>
+        <lastmod>2019-08-08</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/351/</loc>
+        <lastmod>2019-07-25</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/343/</loc>
         <lastmod>2019-07-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/341/</loc>
+        <lastmod>2019-07-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
@@ -79,6 +114,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/266/</loc>
         <lastmod>2019-03-20</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/232/</loc>
+        <lastmod>2019-03-15</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
@@ -105,6 +147,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     </url>
 
     <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/169/</loc>
+        <lastmod>2019-01-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/168/</loc>
         <lastmod>2019-01-07</lastmod>
         <changefreq>always</changefreq>
@@ -114,6 +163,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/167/</loc>
         <lastmod>2019-01-07</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/165/</loc>
+        <lastmod>2019-01-02</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
@@ -211,6 +267,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
         <loc>/Blog-With-GitHub-Boilerplate/archives/112/</loc>
+        <lastmod>2018-12-07</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>/Blog-With-GitHub-Boilerplate/archives/107/</loc>
         <lastmod>2018-12-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
