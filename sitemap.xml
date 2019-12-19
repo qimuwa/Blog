@@ -6,14 +6,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
 
     <url>
-        <loc>/Blog/album/</loc>
+        <loc>/album/</loc>
         <lastmod>2018-12-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>/Blog/about/</loc>
+        <loc>/about/</loc>
         <lastmod>2018-11-22</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
@@ -21,371 +21,371 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
-        <loc>/Blog/archives/fuck/</loc>
+        <loc>/archives/fuck/</loc>
         <lastmod>2019-12-04</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/hackintosh/</loc>
+        <loc>/archives/hackintosh/</loc>
         <lastmod>2019-11-27</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/Terminator-6/</loc>
+        <loc>/archives/Terminator-6/</loc>
         <lastmod>2019-11-04</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/AirPods-Pro/</loc>
+        <loc>/archives/AirPods-Pro/</loc>
         <lastmod>2019-11-03</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/Weathering-With-You/</loc>
+        <loc>/archives/Weathering-With-You/</loc>
         <lastmod>2019-11-02</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/to-google-cloud/</loc>
+        <loc>/archives/to-google-cloud/</loc>
         <lastmod>2019-10-04</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/lost/</loc>
+        <loc>/archives/lost/</loc>
         <lastmod>2019-08-10</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/422/</loc>
+        <loc>/archives/422/</loc>
         <lastmod>2019-08-08</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/351/</loc>
+        <loc>/archives/351/</loc>
         <lastmod>2019-07-25</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/343/</loc>
+        <loc>/archives/343/</loc>
         <lastmod>2019-07-15</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/341/</loc>
+        <loc>/archives/341/</loc>
         <lastmod>2019-07-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/288/</loc>
+        <loc>/archives/288/</loc>
         <lastmod>2019-04-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/266/</loc>
+        <loc>/archives/266/</loc>
         <lastmod>2019-03-20</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/232/</loc>
+        <loc>/archives/232/</loc>
         <lastmod>2019-03-15</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/207/</loc>
+        <loc>/archives/207/</loc>
         <lastmod>2019-03-12</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/200/</loc>
+        <loc>/archives/200/</loc>
         <lastmod>2019-03-12</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/171/</loc>
+        <loc>/archives/171/</loc>
         <lastmod>2019-01-22</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/169/</loc>
+        <loc>/archives/169/</loc>
         <lastmod>2019-01-11</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/168/</loc>
+        <loc>/archives/168/</loc>
         <lastmod>2019-01-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/167/</loc>
+        <loc>/archives/167/</loc>
         <lastmod>2019-01-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/165/</loc>
+        <loc>/archives/165/</loc>
         <lastmod>2019-01-02</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/157/</loc>
+        <loc>/archives/157/</loc>
         <lastmod>2019-01-01</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/149/</loc>
+        <loc>/archives/149/</loc>
         <lastmod>2018-12-27</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/147/</loc>
+        <loc>/archives/147/</loc>
         <lastmod>2018-12-26</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/145/</loc>
+        <loc>/archives/145/</loc>
         <lastmod>2018-12-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/144/</loc>
+        <loc>/archives/144/</loc>
         <lastmod>2018-12-23</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/143/</loc>
+        <loc>/archives/143/</loc>
         <lastmod>2018-12-22</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/141/</loc>
+        <loc>/archives/141/</loc>
         <lastmod>2018-12-21</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/136/</loc>
+        <loc>/archives/136/</loc>
         <lastmod>2018-12-20</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/132/</loc>
+        <loc>/archives/132/</loc>
         <lastmod>2018-12-19</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/129/</loc>
+        <loc>/archives/129/</loc>
         <lastmod>2018-12-18</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/127/</loc>
+        <loc>/archives/127/</loc>
         <lastmod>2018-12-17</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/123/</loc>
+        <loc>/archives/123/</loc>
         <lastmod>2018-12-09</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/116/</loc>
+        <loc>/archives/116/</loc>
         <lastmod>2018-12-08</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/112/</loc>
+        <loc>/archives/112/</loc>
         <lastmod>2018-12-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/107/</loc>
+        <loc>/archives/107/</loc>
         <lastmod>2018-12-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/94/</loc>
+        <loc>/archives/94/</loc>
         <lastmod>2018-12-05</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/90/</loc>
+        <loc>/archives/90/</loc>
         <lastmod>2018-12-05</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/61/</loc>
+        <loc>/archives/61/</loc>
         <lastmod>2018-12-01</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/59/</loc>
+        <loc>/archives/59/</loc>
         <lastmod>2018-11-29</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/57/</loc>
+        <loc>/archives/57/</loc>
         <lastmod>2018-11-29</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/50/</loc>
+        <loc>/archives/50/</loc>
         <lastmod>2018-11-27</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/49/</loc>
+        <loc>/archives/49/</loc>
         <lastmod>2018-11-27</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/46/</loc>
+        <loc>/archives/46/</loc>
         <lastmod>2018-11-26</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/44/</loc>
+        <loc>/archives/44/</loc>
         <lastmod>2018-11-26</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/37/</loc>
+        <loc>/archives/37/</loc>
         <lastmod>2018-11-26</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/33/</loc>
+        <loc>/archives/33/</loc>
         <lastmod>2018-11-25</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/27/</loc>
+        <loc>/archives/27/</loc>
         <lastmod>2018-11-25</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/41/</loc>
+        <loc>/archives/41/</loc>
         <lastmod>2018-11-25</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/21/</loc>
+        <loc>/archives/21/</loc>
         <lastmod>2018-11-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/see-you-again/</loc>
+        <loc>/archives/see-you-again/</loc>
         <lastmod>2018-11-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/15/</loc>
+        <loc>/archives/15/</loc>
         <lastmod>2018-11-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog/archives/start/</loc>
+        <loc>/archives/start/</loc>
         <lastmod>2018-11-22</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
