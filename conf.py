@@ -48,6 +48,11 @@ nav = [
         "target": "_self"
     },
     {
+        "name": "相册",
+        "url": "${site_prefix}album/",
+        "target": "_self"
+    },
+    {
         "name": "关于",
         "url": "${site_prefix}about/",
         "target": "_self"
