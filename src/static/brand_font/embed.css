@@ -1,8 +1,10 @@
 @font-face {
-    font-family: "fzsxslkjt";
-    src: url("fzsxslkjt.eot"); /* IE9 */
-    src: url("fzsxslkjt.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("fzsxslkjt.svg#FZCuJinLFW") format("svg"); /* iOS 4.1- */
-    font-style: normal;
-    font-weight: normal;
+    font-family: "myFont";
+	src: url("fzsxslkjt.eot");
+	src: url("fzsxslkjt.eot?#iefix") format("embedded-opentype"), 
+	url("fzsxslkjt.woff") format("woff"), 
+	url("fzsxslkjt.ttf") format("truetype"), 
+	url("fzsxslkjt.svg") format("svg");
+	font-style: normal;
+	font-weight: normal;
 }
