@@ -6,14 +6,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/album/</loc>
+        <loc>/Blog/album/</loc>
         <lastmod>2018-12-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/about/</loc>
+        <loc>/Blog/about/</loc>
         <lastmod>2018-11-22</lastmod>
         <changefreq>always</changefreq>
         <priority>0.8</priority>
@@ -21,378 +21,378 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/typography/</loc>
+        <loc>/Blog/archives/typography/</loc>
         <lastmod>2019-12-18</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/fuck/</loc>
+        <loc>/Blog/archives/fuck/</loc>
         <lastmod>2019-12-04</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/hackintosh/</loc>
+        <loc>/Blog/archives/hackintosh/</loc>
         <lastmod>2019-11-27</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/Terminator-6/</loc>
+        <loc>/Blog/archives/Terminator-6/</loc>
         <lastmod>2019-11-04</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/AirPods-Pro/</loc>
+        <loc>/Blog/archives/AirPods-Pro/</loc>
         <lastmod>2019-11-03</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/Weathering-With-You/</loc>
+        <loc>/Blog/archives/Weathering-With-You/</loc>
         <lastmod>2019-11-02</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/to-google-cloud/</loc>
+        <loc>/Blog/archives/to-google-cloud/</loc>
         <lastmod>2019-10-04</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/lost/</loc>
+        <loc>/Blog/archives/lost/</loc>
         <lastmod>2019-08-10</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/422/</loc>
+        <loc>/Blog/archives/422/</loc>
         <lastmod>2019-08-08</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/351/</loc>
+        <loc>/Blog/archives/351/</loc>
         <lastmod>2019-07-25</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/343/</loc>
+        <loc>/Blog/archives/343/</loc>
         <lastmod>2019-07-15</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/341/</loc>
+        <loc>/Blog/archives/341/</loc>
         <lastmod>2019-07-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/288/</loc>
+        <loc>/Blog/archives/288/</loc>
         <lastmod>2019-04-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/266/</loc>
+        <loc>/Blog/archives/266/</loc>
         <lastmod>2019-03-20</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/232/</loc>
+        <loc>/Blog/archives/232/</loc>
         <lastmod>2019-03-15</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/207/</loc>
+        <loc>/Blog/archives/207/</loc>
         <lastmod>2019-03-12</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/200/</loc>
+        <loc>/Blog/archives/200/</loc>
         <lastmod>2019-03-12</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/171/</loc>
+        <loc>/Blog/archives/171/</loc>
         <lastmod>2019-01-22</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/169/</loc>
+        <loc>/Blog/archives/169/</loc>
         <lastmod>2019-01-11</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/168/</loc>
+        <loc>/Blog/archives/168/</loc>
         <lastmod>2019-01-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/167/</loc>
+        <loc>/Blog/archives/167/</loc>
         <lastmod>2019-01-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/165/</loc>
+        <loc>/Blog/archives/165/</loc>
         <lastmod>2019-01-02</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/157/</loc>
+        <loc>/Blog/archives/157/</loc>
         <lastmod>2019-01-01</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/149/</loc>
+        <loc>/Blog/archives/149/</loc>
         <lastmod>2018-12-27</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/147/</loc>
+        <loc>/Blog/archives/147/</loc>
         <lastmod>2018-12-26</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/145/</loc>
+        <loc>/Blog/archives/145/</loc>
         <lastmod>2018-12-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/144/</loc>
+        <loc>/Blog/archives/144/</loc>
         <lastmod>2018-12-23</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/143/</loc>
+        <loc>/Blog/archives/143/</loc>
         <lastmod>2018-12-22</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/141/</loc>
+        <loc>/Blog/archives/141/</loc>
         <lastmod>2018-12-21</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/136/</loc>
+        <loc>/Blog/archives/136/</loc>
         <lastmod>2018-12-20</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/132/</loc>
+        <loc>/Blog/archives/132/</loc>
         <lastmod>2018-12-19</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/129/</loc>
+        <loc>/Blog/archives/129/</loc>
         <lastmod>2018-12-18</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/127/</loc>
+        <loc>/Blog/archives/127/</loc>
         <lastmod>2018-12-17</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/123/</loc>
+        <loc>/Blog/archives/123/</loc>
         <lastmod>2018-12-09</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/116/</loc>
+        <loc>/Blog/archives/116/</loc>
         <lastmod>2018-12-08</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/112/</loc>
+        <loc>/Blog/archives/112/</loc>
         <lastmod>2018-12-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/107/</loc>
+        <loc>/Blog/archives/107/</loc>
         <lastmod>2018-12-07</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/94/</loc>
+        <loc>/Blog/archives/94/</loc>
         <lastmod>2018-12-05</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/90/</loc>
+        <loc>/Blog/archives/90/</loc>
         <lastmod>2018-12-05</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/61/</loc>
+        <loc>/Blog/archives/61/</loc>
         <lastmod>2018-12-01</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/59/</loc>
+        <loc>/Blog/archives/59/</loc>
         <lastmod>2018-11-29</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/57/</loc>
+        <loc>/Blog/archives/57/</loc>
         <lastmod>2018-11-29</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/50/</loc>
+        <loc>/Blog/archives/50/</loc>
         <lastmod>2018-11-27</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/49/</loc>
+        <loc>/Blog/archives/49/</loc>
         <lastmod>2018-11-27</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/46/</loc>
+        <loc>/Blog/archives/46/</loc>
         <lastmod>2018-11-26</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/44/</loc>
+        <loc>/Blog/archives/44/</loc>
         <lastmod>2018-11-26</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/37/</loc>
+        <loc>/Blog/archives/37/</loc>
         <lastmod>2018-11-26</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/33/</loc>
+        <loc>/Blog/archives/33/</loc>
         <lastmod>2018-11-25</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/27/</loc>
+        <loc>/Blog/archives/27/</loc>
         <lastmod>2018-11-25</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/41/</loc>
+        <loc>/Blog/archives/41/</loc>
         <lastmod>2018-11-25</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/21/</loc>
+        <loc>/Blog/archives/21/</loc>
         <lastmod>2018-11-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/see-you-again/</loc>
+        <loc>/Blog/archives/see-you-again/</loc>
         <lastmod>2018-11-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/15/</loc>
+        <loc>/Blog/archives/15/</loc>
         <lastmod>2018-11-24</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>/Blog-With-GitHub-Boilerplate/archives/start/</loc>
+        <loc>/Blog/archives/start/</loc>
         <lastmod>2018-11-22</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
