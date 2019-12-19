@@ -23,7 +23,7 @@ author_homepage = "https://www.imqimu.cn"
 description = "一切看似逝去的，都不曾离开。"
 key_words = ['Maverick', '七木', 'Galileo', 'blog', 'qimu', 'qimuwa', '七木哇']
 language = 'zh-CN'
-background_img = '${static_prefix}bg_1.jpg'
+background_img = '${static_prefix}bg/bg_1.jpg'
 external_links = [
     {
         "name": "七木 | Qimu",
