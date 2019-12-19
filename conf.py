@@ -17,7 +17,7 @@ enable_jsdelivr = {
 site_name = "七木"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2018-11-22T12:50+08:00"
-author = "七木"
+author = "七木's Blog"
 email = "qimuwa@gmail.com"
 author_homepage = "https://www.imqimu.cn"
 description = "一切看似逝去的，都不曾离开。"
@@ -29,6 +29,11 @@ external_links = [
         "name": "七木 | Qimu",
         "url": "https://www.imqimu.cn",
         "brief": "七木的主页。"
+    },
+    {
+        "name": "Love",
+        "url": "https://love.imqimu.cn",
+        "brief": "此生只有你。"
     }
 ]
 nav = [
@@ -65,6 +70,11 @@ social_links = [
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+<link rel="dns-prefetch" href="//blog.imqimu.cn" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="application-name" content="七木 | Qimu">
+<meta name="apple-mobile-web-app-title" content="七木 | Qimu">
 <meta name="google-site-verification" content="t3OmqFng0xM4Abot0kdoBNGlMXkfv6yMGMuO5O5sTuo" />
 '''
 
