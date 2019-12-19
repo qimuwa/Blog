@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>七木</title><link>/Blog-With-GitHub-Boilerplate/</link><description>一切看似逝去的，都不曾离开。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>七木</title><link>/Blog-With-GitHub-Boilerplate/</link></image><language>zh-CN</language><lastBuildDate>Thu, 19 Dec 2019 02:50:33 +0806</lastBuildDate><pubDate>Thu, 19 Dec 2019 02:50:33 +0806</pubDate><item><title>面试记</title><link>/Blog-With-GitHub-Boilerplate/archives/171/</link><description>&lt;p&gt;昨晚到郑州，为了省钱，和朋友找了一间民宿住，一晚35，还行吧:@(吐舌)
-写一下今天面试的感受吧
-今天早上八点从住的地方出发，坐地铁到了第一家要面试的地方，不过提前到了一个多小时，真是扯淡。&lt;/p&gt;
-&lt;p&gt;第一家公司&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;达内科技&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;怎么说，在业内有点名气，但是是一家培训机构，让大牛带你这个小白做项目。
-实习生3-4个月没有工资，没有吃住补贴，有点不能接受，但是也和面试官瞎BB了一会&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;面试岗位“网络管理员”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;问我以后的规划，想走什么路，说了一堆，就是想让你在他们工作培训。:@(吐血倒地)&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;第二家公司&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;河南创赛通信&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;一家做网优的公司，网络通信优化，怎么说，只要有今天的4G，今年的5G，未来的6G信号就不会失业
-工作相对自由，给我讲了工作方面的事，比如XXX来郑州开演唱会，现场网络肯定会渣的一B，他们就抱着笔记本坐在高高的地方优化网络信号，还可以免费的看演唱会，真好呢:@(害羞)
-公司接受实习生，工资日结，但是工资不会太高，处郑州本地的项目还有外地项目。:@(小怒)&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;这两家公司面试结束之后就已经十二点多了，坐地铁赶去下一家公司，顺便找个地方吃口饭&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;第三家公司&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;志泽网络&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;没有过多的了解这家公司，总结来说，培训就完了，哪来那么多问题
-培训六个月，可以申请住房补贴1000软妹币，包入职，入职后薪资4-6k，每个月需支付1.2k给公司当做培训费用，需要支付12个月也就是12k
-简单的和面试官聊了两句就走了，去他妈的直接pass掉&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;今天的太阳真的好，下楼之后晒着真舒服呢::(太阳)&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;第四家公司&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;中关村什么牛逼牛逼的公司&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;讲着和中关村唯一合作的一家公司，虽然说着牛逼，但是还他妈的是培训机构，让你报班，学费18k，培训时间5-6个月，会有3个月的时间让你做项目，说着月入最低8k，三个月就是24k，真好呢，三个月之后就可以全款付钱::(冷) 
-这是今天面试时间最长的一家公司，呆了将近三个小时，面试官会以各种借口想方设法的让你参加培训&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;面试岗位“数据管理员”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;给我讲你要做技术方面的数据管理员还是做文职方面的数据管理员，两者薪资待遇不一样，前者底薪3.5k+五险一金+提成，后者3k+无五险一金+无提成+什么都不加还扣你钱，实习期三个月每个月给你发80%的工资也就是2.4k，这还不是重点，重点是0.4k还不一定是你的，还有什么考核呀，不合格的话只有2k
-之后还让我们参观他们培训的地方，随便找了个理由走开了。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;下楼后天已经黑了，明天打算&lt;/p&gt;
-&lt;h1&gt;找尼玛工作，玩就行了:@(中刀)&lt;/h1&gt;
-&lt;p&gt;找工作搞得就很不开心了，再玩不好的话就更闹心了 
-本以为年前找工作会容易点吧，结果谁能想到呢，和自己想的差距太大了
-不过也不能全怪公司的种种要求吧，主要是自己就是个辣鸡:@(喜极而泣) 
-公司要你才怪呢:@(无奈) 
-明天玩的开心就行了，就这样:@(投降)&lt;/p&gt;
-</description><author>qimuwa@gmail.com (七木)</author><guid isPermaLink="true">/Blog-With-GitHub-Boilerplate/archives/171/</guid><pubDate>Tue, 22 Jan 2019 22:09:00 +0806</pubDate></item><item><title>90后闯荡社会-流浪记</title><link>/Blog-With-GitHub-Boilerplate/archives/200/</link><description>&lt;p&gt;距离我上次出发已经过去了一个月的时间。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>七木</title><link>/Blog-With-GitHub-Boilerplate/</link><description>一切看似逝去的，都不曾离开。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>${static_prefix}logo.png</url><title>七木</title><link>/Blog-With-GitHub-Boilerplate/</link></image><language>zh-CN</language><lastBuildDate>Thu, 19 Dec 2019 02:51:43 +0806</lastBuildDate><pubDate>Thu, 19 Dec 2019 02:51:43 +0806</pubDate><item><title>90后闯荡社会-流浪记</title><link>/Blog-With-GitHub-Boilerplate/archives/200/</link><description>&lt;p&gt;距离我上次出发已经过去了一个月的时间。
 二月份荒废了二十多天，出来找工作总是会遇到挫折的，不过还好，心理承受能力强，其实也无所谓了，就当作出去旅游。
 这二十多天在郑州遇到了十几家大大小小的培训机构，“达内、北大课工场、智游、AAA教育、云和”等...
 也认识了自己的不足，不过我不会被打倒，撸起袖子继续干。
@@ -199,7 +150,52 @@ permit - 0.0.0.0/0 - 0.0.0.0/0 - - - - -
 &lt;p&gt;注：
 请将手中的iOS设备升级到最新的iOS 13.2，不然AirPods Pro中的部分功能无法使用。&lt;/p&gt;
 &lt;p&gt;详见官网&lt;a href="https://www.apple.com.cn/cn/airpods-pro/"&gt;AirPods Pro&lt;/a&gt;&lt;/p&gt;
-</description><author>qimuwa@gmail.com (七木)</author><guid isPermaLink="true">/Blog-With-GitHub-Boilerplate/archives/AirPods-Pro/</guid><pubDate>Sun, 03 Nov 2019 23:44:00 +0806</pubDate></item><item><title>Hello World!</title><link>/Blog-With-GitHub-Boilerplate/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+</description><author>qimuwa@gmail.com (七木)</author><guid isPermaLink="true">/Blog-With-GitHub-Boilerplate/archives/AirPods-Pro/</guid><pubDate>Sun, 03 Nov 2019 23:44:00 +0806</pubDate></item><item><title>RedmiBook 14 黑苹果</title><link>/Blog-With-GitHub-Boilerplate/archives/hackintosh/</link><description>&lt;p&gt;Mac OS
+折腾了一天的黑苹果，直到现在才进入系统，系统好装，驱动难装&lt;/p&gt;
+&lt;h2&gt;硬件详情：&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;电脑品牌&lt;/th&gt;
+&lt;th&gt;RedmiBook 14 增强版&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;CPU&lt;/td&gt;
+&lt;td&gt;i5-10210U&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;核显&lt;/td&gt;
+&lt;td&gt;intel UHD Graphics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;独显&lt;/td&gt;
+&lt;td&gt;NVIDIA GeForce MX250&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;内存&lt;/td&gt;
+&lt;td&gt;单条 8G DDR4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;硬盘&lt;/td&gt;
+&lt;td&gt;256G SSD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;黑Mac系统详情：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS Catalina&lt;/li&gt;
+&lt;li&gt;版本: 10.15&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;硬件异常：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;独显无法使用&lt;/li&gt;
+&lt;li&gt;无线网卡无法使用&lt;/li&gt;
+&lt;li&gt;蓝牙无法使用&lt;/li&gt;
+&lt;li&gt;触摸板无法使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://cdn.imqimu.cn/2019/11/27/1574857011.jpeg"&gt;Redmibook 14黑苹果&lt;/a&gt;&lt;/p&gt;
+</description><author>qimuwa@gmail.com (七木)</author><guid isPermaLink="true">/Blog-With-GitHub-Boilerplate/archives/hackintosh/</guid><pubDate>Wed, 27 Nov 2019 00:01:00 +0806</pubDate></item><item><title>Hello World!</title><link>/Blog-With-GitHub-Boilerplate/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
