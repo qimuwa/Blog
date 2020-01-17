@@ -29,11 +29,6 @@ external_links = [
         "name": "七木 | Qimu",
         "url": "https://www.imqimu.cn",
         "brief": "七木的主页。"
-    },
-    {
-        "name": "Love",
-        "url": "https://love.imqimu.cn",
-        "brief": "此生只有你。"
     }
 ]
 nav = [
